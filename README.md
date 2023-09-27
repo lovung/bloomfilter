@@ -49,7 +49,7 @@ func main() {
 ```
 
 ## API Documentation
-For detailed documentation, please refer to the GoDoc page.
+For detailed documentation, please refer to the [GoDoc](https://pkg.go.dev/github.com/loving/bloomfilter) page.
 
 ## Contributing
 Contributions are welcome! Please feel free to open issues or pull requests for bug fixes, improvements, or new features.
